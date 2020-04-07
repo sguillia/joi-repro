@@ -1,0 +1,23 @@
+{
+  "name": "joi-repro",
+  "version": "1.0.0",
+  "description": "bug report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguillia/joi-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sguillia/joi-repro/issues"
+  },
+  "homepage": "https://github.com/sguillia/joi-repro#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "@types/hapi__joi": "^16.0.12"
+  }
+}
